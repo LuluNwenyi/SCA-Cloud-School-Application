@@ -7,5 +7,5 @@ load_dotenv()
   
 @app.route('/')
 def hello():
-    return "Welcome to my SCA Cloud School Application."
+    return "Welcome to my SCA Cloud School Application, this is my first assessment."
     
