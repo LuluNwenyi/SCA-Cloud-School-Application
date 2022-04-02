@@ -67,10 +67,11 @@ My flask app ran on the signified port — **5001**.
 
 ***v0:***
 
-
+<img width="800" alt="v0" src="https://user-images.githubusercontent.com/72583144/161384874-7616b7a8-7bc8-4942-8108-6ab204851496.png">
 
 ***v1:***
 
+<img width="800" alt="v1" src="https://user-images.githubusercontent.com/72583144/161384886-bc876ae3-2358-49f0-bd57-cbaea104f886.png">
 
 ## Dockerhub
 [Link to image on Dockerhub](https://hub.docker.com/r/lulunwenyi/sca-task)
